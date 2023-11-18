@@ -1,4 +1,5 @@
-# my-interaction-video
+#expert systems
+
 https://youtu.be/X-Z7RsmG3DM?si=soyNVZrhMO3w0osH
 
 the video is abot expert systems and its applications . the video is created by using templates and a software application Lumi .This video is helpful for the students for self assessment and learning new things.
